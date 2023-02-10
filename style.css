@@ -1,0 +1,85 @@
+h1 {
+    font-size: 55px;
+}
+
+h1 span.helf {
+    color: hotpink;
+}
+
+.flexble-container {
+    display: flex;
+}
+
+
+
+div.write {
+    width: 50%;
+    padding-left: 5%;
+}
+
+div.img {
+    width: 80%;
+    padding-left: 334px;
+}
+
+a {
+    /* border: 3px solid black; */
+    background-color: yellow;
+    color: whiteS;
+    text-decoration: none;
+    padding: 4px 13px;
+    background-image: linear-gradient(red, tomato);
+    border-radius: 13px;
+}
+
+h2 span.will {
+    color: aqua;
+
+}
+
+div.item {
+    width: 50%;
+}
+
+div.img2 {
+    width: 50%;
+}
+
+#all {
+    display: flex;
+}
+
+#color {
+    color: rgb(236, 147, 13);
+}
+
+#color2 {
+    color: rgb(236, 147, 13);
+}
+
+.item1 {
+    width: 40%;
+    margin: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 10px 10px 40px rebeccapurple;
+    border-left: 6px solid black
+}
+
+.item2 {
+    width: 40%;
+    margin: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 10px 10px 40px rebeccapurple;
+    border-left: 6px solid rgb(228, 80, 80)
+}
+
+footer p {
+    align-items: center;
+    text-align: center;
+}
